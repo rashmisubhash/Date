@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/rashmisubhash/Date/static/css/main.444bd793.css",
-    "main.js": "/rashmisubhash/Date/static/js/main.f562ed4d.js",
-    "static/js/453.c2c5e29d.chunk.js": "/rashmisubhash/Date/static/js/453.c2c5e29d.chunk.js",
-    "static/media/accept.gif": "/rashmisubhash/Date/static/media/accept.44a742df2a93eebdb985.gif",
-    "static/media/angry2.gif": "/rashmisubhash/Date/static/media/angry2.bff95ce6d228b2477a7a.gif",
-    "static/media/angry3.gif": "/rashmisubhash/Date/static/media/angry3.2e5e69b21cdfba0c2658.gif",
-    "static/media/Q1.gif": "/rashmisubhash/Date/static/media/Q1.d8b0a66e0eedbc122610.gif",
-    "static/media/angry4.gif": "/rashmisubhash/Date/static/media/angry4.02b24e077b567c908721.gif",
-    "static/media/accept3.gif": "/rashmisubhash/Date/static/media/accept3.a04b0bc4bf8f1a3dde88.gif",
-    "static/media/pp.gif": "/rashmisubhash/Date/static/media/pp.38ff1050441c8a37c31a.gif",
-    "static/media/accept2.gif": "/rashmisubhash/Date/static/media/accept2.38fe1f15e6224284aca2.gif",
-    "static/media/carry.gif": "/rashmisubhash/Date/static/media/carry.3ccf4d9ad45ab425b0ed.gif",
-    "static/media/angry1.gif": "/rashmisubhash/Date/static/media/angry1.01a56f5c3ea2e331a701.gif",
-    "static/media/attention.gif": "/rashmisubhash/Date/static/media/attention.0cc6d2e50d31b54b6543.gif",
-    "index.html": "/rashmisubhash/Date/index.html",
-    "main.444bd793.css.map": "/rashmisubhash/Date/static/css/main.444bd793.css.map",
-    "main.f562ed4d.js.map": "/rashmisubhash/Date/static/js/main.f562ed4d.js.map",
-    "453.c2c5e29d.chunk.js.map": "/rashmisubhash/Date/static/js/453.c2c5e29d.chunk.js.map"
+    "main.css": "/Date/static/css/main.444bd793.css",
+    "main.js": "/Date/static/js/main.89bc7b1a.js",
+    "static/js/453.c2c5e29d.chunk.js": "/Date/static/js/453.c2c5e29d.chunk.js",
+    "static/media/accept.gif": "/Date/static/media/accept.44a742df2a93eebdb985.gif",
+    "static/media/angry2.gif": "/Date/static/media/angry2.bff95ce6d228b2477a7a.gif",
+    "static/media/angry3.gif": "/Date/static/media/angry3.2e5e69b21cdfba0c2658.gif",
+    "static/media/Q1.gif": "/Date/static/media/Q1.d8b0a66e0eedbc122610.gif",
+    "static/media/angry4.gif": "/Date/static/media/angry4.02b24e077b567c908721.gif",
+    "static/media/accept3.gif": "/Date/static/media/accept3.a04b0bc4bf8f1a3dde88.gif",
+    "static/media/pp.gif": "/Date/static/media/pp.38ff1050441c8a37c31a.gif",
+    "static/media/accept2.gif": "/Date/static/media/accept2.38fe1f15e6224284aca2.gif",
+    "static/media/carry.gif": "/Date/static/media/carry.3ccf4d9ad45ab425b0ed.gif",
+    "static/media/angry1.gif": "/Date/static/media/angry1.01a56f5c3ea2e331a701.gif",
+    "static/media/attention.gif": "/Date/static/media/attention.0cc6d2e50d31b54b6543.gif",
+    "index.html": "/Date/index.html",
+    "main.444bd793.css.map": "/Date/static/css/main.444bd793.css.map",
+    "main.89bc7b1a.js.map": "/Date/static/js/main.89bc7b1a.js.map",
+    "453.c2c5e29d.chunk.js.map": "/Date/static/js/453.c2c5e29d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.444bd793.css",
-    "static/js/main.f562ed4d.js"
+    "static/js/main.89bc7b1a.js"
   ]
 }
