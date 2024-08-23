@@ -3,6 +3,7 @@ import "./common.scss";
 import carry from "../Imgs/carry.gif";
 import pp from "../Imgs/pp.gif";
 import Rejections from "./Rejections";
+import Success from "./Success.js";
 
 const Boos = () => {
   const [curElem, setCurElem] = useState(0);
