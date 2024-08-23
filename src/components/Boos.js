@@ -28,7 +28,7 @@ const Boos = () => {
           </button>
         </div>
       ) : curElem == 1 ? (
-        <div>Success</div>
+        <Success />
       ) : (
        <Rejections />
       )}
